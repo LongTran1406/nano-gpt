@@ -79,10 +79,6 @@ python gpt_training.py
 ```
 
 
-### License
-
-This project is licensed under the MIT License.
-
 ### Acknowledgements
 
 Attention Mechanism & Transformer: Vaswani et al., “Attention is All You Need” (Paper)
