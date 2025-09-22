@@ -55,7 +55,7 @@ The NanoGPT model is composed of several key components, implemented from scratc
 1. Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/LongTran1406/nano-gpt.git
 cd NanoGPT
 ```
 
