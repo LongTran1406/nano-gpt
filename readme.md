@@ -11,7 +11,7 @@ The model is capable of **streaming text generation**, printing each token as it
 
 ## Features
 
-- Lightweight GPT architecture implemented from scratch.
+- Lightweight GPT architecture implemented using pytorch.
 - Multi-head self-attention with positional embeddings.
 - Supports multiple Transformer blocks.
 - Character/token-level text generation.
