@@ -81,10 +81,11 @@ python gpt_training.py
 
 ### Acknowledgements
 
-Attention Mechanism & Transformer: Vaswani et al., “Attention is All You Need” (Paper)
+- Attention Mechanism & Transformer: Vaswani et al., “Attention is All You Need” (Paper) [https://arxiv.org/abs/1706.03762](https://arxiv.org/abs/1706.03762)
 
-NanoGPT Implementation Inspiration: Andrej Karpathy, NanoGPT GitHub
+- NanoGPT Implementation Inspiration: Andrej Karpathy, NanoGPT GitHub [https://github.com/karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
 
-PyTorch: Deep learning framework used for implementation.
+- PyTorch: Deep learning framework used for implementation.
 
-HuggingFace Transformers: Reference for model design and tokenization.
+- HuggingFace Transformers: Reference for model design and tokenization.
+
