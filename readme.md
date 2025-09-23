@@ -55,7 +55,7 @@ The NanoGPT model is composed of several key components, implemented from scratc
 1. Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/LongTran1406/nano-gpt.git
 cd NanoGPT
 ```
 
@@ -78,10 +78,6 @@ python gpt_inference.py
 python gpt_training.py
 ```
 
-
-### License
-
-This project is licensed under the MIT License.
 
 ### Acknowledgements
 
